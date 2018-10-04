@@ -8,3 +8,10 @@ Our task is to build a regression model that will predict the bike rental on dai
 ![day_data](https://user-images.githubusercontent.com/20225277/46469294-9cb53580-c7f0-11e8-991c-fc4d40246367.png)
 
 ### Pre Processing
+Distribution of "cnt"  - The count of daily bikes rented
+
+![correaltion plot](https://user-images.githubusercontent.com/20225277/46470014-d0915a80-c7f2-11e8-99f7-a2ed7c98e636.png)
+
+Distribution of Number of Bikes-Rented by Month
+
+
